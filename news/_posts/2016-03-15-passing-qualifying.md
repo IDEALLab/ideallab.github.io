@@ -8,4 +8,4 @@ category: news
 tags: [publication,JMD]
 ---
 
-Our PhD students, Wei and Faez, has passed their qualifying exams. Congrats to them!
+Our PhD students, Wei and Faez, have passed their qualifying exams. Congrats to them!

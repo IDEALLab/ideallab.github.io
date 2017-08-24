@@ -8,4 +8,4 @@ category: news
 tags: [publication,JMD]
 ---
 
-Our article entitled "Design Manifolds Capture the Intrinsic Complexity and Dimension of Design Spaces" was accepted for publication in the ASME Journal of Mechanical Design. Check out the [publications](/publications.html) page for more information.
+Our article entitled "Design Manifolds Capture the Intrinsic Complexity and Dimension of Design Spaces" was accepted for publication in the ASME Journal of Mechanical Design. Check out the [publications](/papers/) page for more information.
