@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+  <circle cx="250" cy="150" r="110" stroke="#04819E" stroke-opacity="0.5"
+  stroke-width="2" fill="#04819E" fill-opacity="0.4" />
+  <circle cx="330" cy="280" r="110" stroke="#F80012" stroke-opacity="0.5"
+  stroke-width="2" fill="#F80012" fill-opacity="0.4" />
+  <circle cx="170" cy="280" r="110" stroke="#FFBC00" stroke-opacity="0.5"
+  stroke-width="2" fill="#FFBC00" fill-opacity="0.4" />
+  
+  <g transform="translate(250,115)">
+    <text x="0" y="0" class="diagram-main-text">Design & </text>
+    <text x="0" y="25" class="diagram-main-text">Engineering</text>
+  </g>
+  <g transform="translate(355,280)">
+    <text x="0" y="0" class="diagram-main-text">Machine</text>
+    <text x="0" y="25" class="diagram-main-text">Learning</text>
+  </g>
+  <g transform="translate(142,280)">
+    <text x="0" y="0" class="diagram-main-text">Open</text>
+    <text x="0" y="25" class="diagram-main-text">Innovation</text>
+  </g>
+  
+  <g transform="translate(70,100) rotate(-35)" >
+    <text x="0" y="0" class="diagram-main-text">Design</text>
+    <text x="0" y="25" class="diagram-main-text">Informatics</text>
+  </g>
+  <path d="M 100,120 q 70 160 150 120" stroke="#333333" stroke-width="2" fill="none" />
+  <circle cx="250" cy="240" r="3" stroke-width="0" fill="#333333" fill-opacity="1" />
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 800 360"  style="font-family: 'Source Sans Pro','Roboto', sans-serif;text-anchor: middle; font-size: 24pt;">
+  <defs>
+		<style type="text/css"><![CDATA[
+      .line-pointer{
+        stroke:#555;
+        stroke-width:2;
+      }
+      #labels{
+        font-size: 18pt;
+        fill:#555;
+      }
+		]]></style>
+	</defs>
+
+  <g transform="translate(0,-35)">
+    <g transform="translate(150,0)">
+      <circle cx="250" cy="150" r="110" stroke="rgb(150, 34, 21)" stroke-opacity="0.5"
+      stroke-width="2" fill="rgb(150, 34, 21)" fill-opacity="0.05" />
+      <circle cx="330" cy="280" r="110" stroke="rgb(150, 34, 21)" stroke-opacity="0.5"
+      stroke-width="2" fill="rgb(150, 34, 21)" fill-opacity="0.05" />
+      <circle cx="170" cy="280" r="110" stroke="rgb(150, 34, 21)" stroke-opacity="0.5"
+      stroke-width="2" fill="rgb(150, 34, 21)" fill-opacity="0.05" />
+      
+      <g transform="translate(250,115)">
+        <text x="0" y="0">Engineering</text>
+        <text x="0" y="1.2em">Design</text>
+      </g>
+      <g transform="translate(355,280)">
+        <text x="0" y="0">Machine</text>
+        <text x="0" y="1.2em">Learning</text>
+      </g>
+      <g transform="translate(142,280)" >
+        <text x="0" y="0" >Open</text>
+        <text x="0" y="1.2em" >Innovation</text>
+      </g>
+      
+      <!--
+      <g transform="translate(70,100) rotate(-35)" >
+        <text x="0" y="0">Design</text>
+        <text x="0" y="25">Informatics</text>
+      </g>*/
+      <path d="M 100,120 q 70 160 150 120" stroke="#333333" stroke-width="2" fill="none" />
+      <circle cx="250" cy="240" r="3" stroke-width="0" fill="#333333" fill-opacity="1" />
+      -->
+    </g>
+    
+    <!-- Research Applications -->
+    <g transform="translate(0,0)" id="labels" >
+      <g id="left-labels" transform="translate(180,50)" style="text-anchor:end;">
+        <g transform="translate(0,30)" >
+          
+          <text x="0" y="0" dy="0.3em">Design Cognition</text>
+          
+          <line x1="7px" y1="0" x2="50px" y2="0" class="line-pointer" />
+          <line x1="50px" y1="0" x2="130px" y2="50" class="line-pointer" />
+          <circle cx="130" cy="50" r="3" />
+        </g>
+        <g transform="translate(0,100)" >
+          
+            <text x="0" y="0" dy="0.3em">Online Design</text>
+            <text x="0" y="1.2em" dy="0.3em">Communities</text>
+          
+          <line x1="7px" y1="0" x2="40px" y2="0" class="line-pointer" />
+          <line x1="40px" y1="0" x2="150px" y2="50" class="line-pointer" />
+          <circle cx="150" cy="50" r="3" />
+        </g>
+        <g transform="translate(0,230)" >
+          
+            <text x="0" y="0" dy="0.3em">Network Analysis</text>
+          
+          <line x1="7px" y1="0" x2="20px" y2="0" class="line-pointer" />
+          <line x1="20px" y1="0" x2="70px" y2="-50" class="line-pointer" />
+          <circle cx="70" cy="-50" r="3" />
+        </g>
+      </g>
+      
+      <g id="left-labels" transform="translate(625,50)" style="text-anchor:start;">
+        <g transform="translate(0,40)" >
+          
+            <text x="0" dy="0.3em">Creativity</text>
+          
+          <line x1="-7px" y1="0" x2="-50px" y2="0" class="line-pointer" />
+          <line x1="-50px" y1="0" x2="-140px" y2="60" class="line-pointer" />
+          <circle cx="-140" cy="60" r="3" />
+        </g>
+        <g transform="translate(0,100)" >
+          
+            <text x="0" dy="0.3em">Interfaces</text>
+          
+          <line x1="-7px" y1="0" x2="-50px" y2="0" class="line-pointer" />
+          <line x1="-50px" y1="0" x2="-140px" y2="40" class="line-pointer" />
+          <circle cx="-140" cy="40" r="3" />
+        </g>
+        <g transform="translate(0,180)" >
+          
+            <text x="0" dy="0.3em">Informatics &amp;</text>
+            <text x="0" y="1.2em" dy="0.3em">Analytics</text>
+          
+          <line x1="-7px" y1="0" x2="-30px" y2="0" class="line-pointer" />
+          <line x1="-30px" y1="0" x2="-160px" y2="-20px" class="line-pointer" />
+          <circle cx="-160" cy="-20" r="3" />
+        </g>
+        <g transform="translate(0,280)" href="#" >
+          
+            <text x="0" y="0" dy="0.3em">Preference</text>
+            <text x="0" y="1.2em" dy="0.3em">Elicitation</text>
+          
+          <line x1="-7px" y1="0" x2="-20px" y2="0" class="line-pointer" />
+          <line x1="-20px" y1="0" x2="-80px" y2="10" class="line-pointer" />
+          <circle cx="-80" cy="10" r="3" />
+        </g>
+      </g>
+    </g>
+  </g>
+  
+</svg>
