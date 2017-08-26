@@ -36,7 +36,7 @@ While companies are turning to online communities of outside designers to bring 
     booktitle = {ASME International Design Engineering Technical Conferences},
     day = {17-20},
     month = aug,
-    title = {{How Online Design Communities Evolve Over Time: the Birth and Growth of OpenIDEO}},
+    title = {How Online Design Communities Evolve Over Time: the Birth and Growth of {OpenIDEO} },
     year = {2014}
 }
 ```

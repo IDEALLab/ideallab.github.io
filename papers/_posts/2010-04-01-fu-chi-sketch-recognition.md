@@ -33,7 +33,7 @@ tags: [sketching]
     location = {Atlanta, Georgia, USA},
     month = apr,
     publisher = {ACM},
-    title = {{Engineering Sketch Recognition: Findings from Recent Bio-Inspired and Cognitive Studies at VDEL}},
+    title = {Engineering Sketch Recognition: Findings from Recent Bio-Inspired and Cognitive Studies at {VDEL} },
     year = {2010}
 }
 ```

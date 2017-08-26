@@ -31,7 +31,7 @@ tags: [HCD]
     booktitle = {ASME International Mechanical Engineering Congress & Exposition},
     day = {14-20},
     month = nov,
-    title = {{Examining Design for Development Online: A Qualitative Analysis of OpenIDEO using HCD/UCD Metrics}},
+    title = {Examining Design for Development Online: A Qualitative Analysis of {OpenIDEO} using {HCD/UCD} Metrics},
     year = {2014}
 }
 ```

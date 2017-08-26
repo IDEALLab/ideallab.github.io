@@ -36,7 +36,7 @@ Measuring design creativity is crucial to evaluating the effectiveness of idea g
     booktitle = {ASME International Design Engineering Technical Conferences},
     day = {4-7},
     month = aug,
-    title = {{Automatically Inferring Metrics for Design Creativity}},
+    title = {Automatically Inferring Metrics for Design Creativity},
     year = {2013}
 }
 ```

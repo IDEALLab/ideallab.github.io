@@ -35,7 +35,7 @@ Additive manufacturing (AM), or 3D-printing, sits at the heart of the Maker Move
     journal = {Journal of Mechanical Design},
     month = oct,
     number = {11},
-    title = {{The MechProcessor: Helping Novices Design Printable Mechanisms Across Different Printers}},
+    title = {The MechProcessor: Helping Novices Design Printable Mechanisms Across Different Printers},
     volume = {137},
     year = {2015}
 }

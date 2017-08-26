@@ -35,7 +35,7 @@ While there has been an active body of recent work in creativity tools and evalu
     booktitle = {Design Computing and Cognition (DCC) 2012, Design Creativity Workshop},
     location = {College Station, Texas},
     month = jun,
-    title = {{CreativeIT Tools for Assisting and Evaluating Creativity and Problem Framing in Early-Stage Human-Centered Design}},
+    title = { {CreativeIT} Tools for Assisting and Evaluating Creativity and Problem Framing in Early-Stage Human-Centered Design},
     year = {2012}
 }
 ```

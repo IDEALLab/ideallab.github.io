@@ -31,7 +31,7 @@ tags: []
     booktitle = {International Symposium on Sustainable Systems and Technology},
     day = {15-17},
     month = may,
-    title = {{ImpactMap: Designing Sustainable Supply Chains by Incorporating Data Uncertainty}},
+    title = {ImpactMap: Designing Sustainable Supply Chains by Incorporating Data Uncertainty},
     year = {2013}
 }
 ```
