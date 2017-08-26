@@ -1,12 +1,3 @@
-@inproceedings{fuge:creativeitdcc,
-    author = {Mark Fuge and Alice Agogino},
-    booktitle = {Design Computing and Cognition (DCC) 2012, Design Creativity Workshop},
-    location = {College Station, Texas},
-    month = jun,
-    title = {{CreativeIT Tools for Assisting and Evaluating Creativity and Problem Framing in Early-Stage Human-Centered Design}},
-    year = {2012}
-}
-
 ---
 layout: paper
 title: "CreativeIT Tools for Assisting and Evaluating Creativity and Problem Framing in Early-Stage Human-Centered Design"

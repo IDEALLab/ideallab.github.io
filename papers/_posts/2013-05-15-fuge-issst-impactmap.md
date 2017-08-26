@@ -1,13 +1,3 @@
-@inproceedings{fuge:impactmap,
-    address = {Cincinnati, U.S.A.},
-    author = {Mark Fuge, Katie McKinstry, and Kevin Ninomiya},
-    booktitle = {International Symposium on Sustainable Systems and Technology},
-    day = {15-17},
-    month = may,
-    title = {{ImpactMap: Designing Sustainable Supply Chains by Incorporating Data Uncertainty}},
-    year = {2013}
-}
-
 ---
 layout: paper
 title: "ImpactMap: Designing Sustainable Supply Chains by Incorporating Data Uncertainty"
