@@ -102,7 +102,7 @@ categories:
 	</div>
 	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/blog/">Posts</a>
+			<a class="off" href="/blog/">New Posts</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
@@ -136,12 +136,12 @@ categories:
 	</div>
 	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/papers/">Papers
+			<a class="off" href="/papers/">New Papers
 			</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">		
-			{% for paper in site.categories.papers limit:4 %}
+			{% for paper in site.categories.papers limit:5 %}
 				<div class="note-title">
 					<i class="fa fa-file-text-o fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
