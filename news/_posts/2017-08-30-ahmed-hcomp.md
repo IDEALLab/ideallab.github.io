@@ -2,7 +2,7 @@
 layout: news
 title: "Faez selected for HCOMP Doctoral Consortium"
 author: "Faez Ahmed"
-author_handle: "faez"
+author_handle: "fahmed"
 image: /assets/images/news/default-news.png
 category: news
 tags: [conference]
