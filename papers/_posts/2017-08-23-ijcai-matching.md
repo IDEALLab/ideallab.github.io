@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Faez Ahmed, John P. Dickerson and Mark Fuge"
-image: /assets/images/papers/2017_ahmed_diverse.png
+image: /assets/images/papers/2017_ahmed_diverse.jpg
 redirect_from: 
 fulltext: 
 pdf: /assets/pdfs/2017_ahmed_diverse.pdf

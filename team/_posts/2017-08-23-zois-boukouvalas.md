@@ -7,7 +7,7 @@ handle: boukouvalas
 email: zboukouv@umd.edu
 github: 
 scholar: Kmm3ZbMAAAAJ
-image: /assets/images/team/head_boukovalas.jpg
+image: /assets/images/team/head_boukouvalas.jpg
 cv: 
 alum: false
 ---

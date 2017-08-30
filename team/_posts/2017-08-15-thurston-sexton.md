@@ -1,3 +1,4 @@
+---
 layout: member
 title: Thurston Sexton
 position: Ph.D Student

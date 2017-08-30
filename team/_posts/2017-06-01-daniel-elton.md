@@ -1,3 +1,4 @@
+---
 layout: member
 title: Daniel Elton
 position:  Postdoctoral Researcher
