@@ -11,7 +11,7 @@ pages:
 authors: "Wei Chen, Mark Fuge, and Jonah Chazan"
 image: /assets/images/papers/design_manifolds.png
 redirect_from: 
-fulltext: 
+fulltext: "http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2610207"
 pdf: /assets/pdfs/chen_design_manifolds_jmd_2017.pdf
 pdflink: 
 github: "https://github.com/IDEALLab/design_embeddings_jmd_2016"
