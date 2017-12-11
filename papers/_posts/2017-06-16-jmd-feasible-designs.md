@@ -5,9 +5,9 @@ year: "2017"
 shortref: "Wei Chen and Mark Fuge <i>JMD</i> 2017"
 nickname: feasible-designs
 journal: "Journal of Mechanical Design"
-volume: 
-issue: 
-pages: 
+volume: "139"
+issue: "11"
+pages: "111405"
 authors: "Wei Chen and Mark Fuge"
 image: /assets/images/papers/feasible_designs.png
 redirect_from: 
