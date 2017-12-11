@@ -5,17 +5,17 @@ year: "2017"
 shortref: "Faez Ahmed and Mark Fuge <i>JMD</i> 2017"
 nickname: ranking-diversity
 journal: "Journal of Mechanical Design"
-volume: 
-issue: 
+volume: "140"
+issue: "1"
 pages: 
 authors: "Faez Ahmed and Mark Fuge"
 image: /assets/images/papers/diverse_rank.jpg
 redirect_from: 
-fulltext: 
+fulltext: "http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2656866"
 pdf: /assets/pdfs/2017_ahmed_ranking.pdf
 pdflink: 
 github: "https://github.com/IDEALLab/ranking_diversity_jmd_2017"
-doi: 
+doi: "10.1115/1.4038070"
 category: paper
 published: true
 tags: [diversity]
@@ -36,7 +36,9 @@ These rank metrics open up the use of multi-objective optimization to describe t
   title={Ranking ideas for diversity and quality},
   author={Ahmed, Faez and Fuge, Mark},
   journal={Journal of Mechanical Design},
-  pages={to appear},
+  volume={140},
+  issue={1},
+  pages={011101},
   year={2017},
   publisher={American Society of Mechanical Engineers}
 }
