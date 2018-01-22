@@ -7,7 +7,7 @@ nickname: feasible-designs
 journal: "Journal of Mechanical Design"
 volume: "139"
 issue: "11"
-pages: "111405"
+pages: "111405-111405-10"
 authors: "Wei Chen and Mark Fuge"
 image: /assets/images/papers/feasible_designs.png
 redirect_from: 
@@ -36,7 +36,7 @@ To solve a design problem, sometimes it is necessary to identify the feasible de
   journal={Journal of Mechanical Design},
   volume={139},
   number={11},
-  pages={111405},
+  pages={111405-111405-10},
   year={2017},
   publisher={American Society of Mechanical Engineers}
 }

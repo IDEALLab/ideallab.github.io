@@ -5,9 +5,9 @@ year: "2017"
 shortref: "Wei Chen, Mark Fuge, and Jonah Chazan <i>JMD</i> 2017"
 nickname: design-manifolds
 journal: "Journal of Mechanical Design"
-volume: 
-issue: 
-pages: 
+volume: 139
+issue: 5
+pages: 051102-051102-10
 authors: "Wei Chen, Mark Fuge, and Jonah Chazan"
 image: /assets/images/papers/design_manifolds.png
 redirect_from: 
@@ -36,7 +36,7 @@ This paper shows how to measure the intrinsic complexity and dimensionality of a
   journal={Journal of Mechanical Design},
   volume={139},
   number={5},
-  pages={051102},
+  pages={051102-051102-10},
   year={2017},
   publisher={American Society of Mechanical Engineers},
   doi={10.1115/1.4036134}
