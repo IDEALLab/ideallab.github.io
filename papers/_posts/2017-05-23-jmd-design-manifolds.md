@@ -32,7 +32,7 @@ This paper shows how to measure the intrinsic complexity and dimensionality of a
 ```
 @article{chen2017design,
   title={Design Manifolds Capture the Intrinsic Complexity and Dimension of Design Spaces},
-  author={Chen, Wei and Fuge, Mark and Chazan, Jonah},
+  author={Chen, Wei and Fuge, Mark and Chazan, Noa},
   journal={Journal of Mechanical Design},
   volume={139},
   number={5},

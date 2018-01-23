@@ -2,13 +2,13 @@
 layout: paper
 title: "How Designs Differ: Non-Linear Embeddings Illuminate Intrinsic Design Complexity"
 year: "2016"
-shortref: "Wei Chen, Jonah Chazan, and Mark Fuge <i>ASME IDETC</i> 2016"
+shortref: "Wei Chen, Noa Chazan, and Mark Fuge <i>ASME IDETC</i> 2016"
 nickname: design-embedding
 journal: "Proceedings of the ASME International Design Engineering Technical Conferences"
 volume: 
 issue: 
 pages: 
-authors: "Wei Chen, Jonah Chazan, and Mark Fuge"
+authors: "Wei Chen, Noa Chazan, and Mark Fuge"
 image: /assets/images/papers/design_embedding.png
 redirect_from: 
 fulltext: 
@@ -32,7 +32,7 @@ This paper shows how to measure the complexity and reduce the dimensionality of 
 ```
 @inproceedings{chen2016designs,
   title={How Designs Differ: Non-Linear Embeddings Illuminate Intrinsic Design Complexity},
-  author={Chen, Wei and Chazan, Jonah and Fuge, Mark},
+  author={Chen, Wei and Chazan, Noa and Fuge, Mark},
   booktitle={ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
   pages={V02AT03A014--V02AT03A014},
   year={2016},
