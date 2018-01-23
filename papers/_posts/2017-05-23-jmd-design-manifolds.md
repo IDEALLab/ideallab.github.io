@@ -2,13 +2,13 @@
 layout: paper
 title: "Design Manifolds Capture the Intrinsic Complexity and Dimension of Design Spaces"
 year: "2017"
-shortref: "Wei Chen, Mark Fuge, and Jonah Chazan <i>JMD</i> 2017"
+shortref: "Wei Chen, Mark Fuge, and Noa Chazan <i>JMD</i> 2017"
 nickname: design-manifolds
 journal: "Journal of Mechanical Design"
 volume: 139
 issue: 5
 pages: 051102-051102-10
-authors: "Wei Chen, Mark Fuge, and Jonah Chazan"
+authors: "Wei Chen, Mark Fuge, and Noa Chazan"
 image: /assets/images/papers/design_manifolds.png
 redirect_from: 
 fulltext: "http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2610207"

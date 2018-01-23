@@ -1,14 +1,14 @@
 ---
 graduated: "B.S. '18"
 layout: member
-title: "Jonah Chazen"
+title: "Noa Chazen"
 position: Undergraduate Student
 nickname:
 handle: 
 email: 
 github: 
 scholar:
-image: /assets/images/team/chazan_jonah.jpg
+image: /assets/images/team/chazan_noa.jpg
 cv: 
 alum: true
 ---
