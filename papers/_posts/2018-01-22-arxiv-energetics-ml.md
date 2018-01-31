@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Dan Elton, Zois Boukouvalas, Mark Butrico, Mark Fuge, Peter Chung"
-image: /assets/images/papers/aes.png
+image: /assets/images/papers/2018_elton_ml_for_energetics_arxiv.jpg
 redirect_from: 
 fulltext: "https://arxiv.org/abs/1801.04900"
 pdf: /assets/pdfs/2018_elton_ml_for_energetics_arxiv.pdf
