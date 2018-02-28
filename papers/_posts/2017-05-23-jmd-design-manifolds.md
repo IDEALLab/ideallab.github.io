@@ -14,7 +14,7 @@ redirect_from:
 fulltext: "http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2610207"
 pdf: /assets/pdfs/chen_design_manifolds_jmd_2017.pdf
 pdflink: 
-github: [GitHub](https://github.com/IDEALLab/design_embeddings_jmd_2016)
+github: "https://github.com/IDEALLab/design_embeddings_jmd_2016"
 doi: "10.1115/1.4036134"
 category: paper
 published: true
