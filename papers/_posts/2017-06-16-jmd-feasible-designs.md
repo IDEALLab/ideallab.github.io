@@ -14,7 +14,7 @@ redirect_from:
 fulltext: "http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2645709"
 pdf: /assets/pdfs/chen_feasible_designs_jmd_2017.pdf
 pdflink: 
-github: "https://github.com/IDEALLab/domain_expansion_jmd_2017"
+github: [GitHub](https://github.com/IDEALLab/domain_expansion_jmd_2017)
 doi: "10.1115/1.4037306"
 category: paper
 published: true

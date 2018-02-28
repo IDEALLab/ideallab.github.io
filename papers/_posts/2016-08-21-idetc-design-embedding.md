@@ -14,7 +14,7 @@ redirect_from:
 fulltext: 
 pdf: /assets/pdfs/chen_design_embeddings_idetc_2016.pdf
 pdflink: 
-github: "https://github.com/IDEALLab/design_embeddings_idetc_2016"
+github: [GitHub](https://github.com/IDEALLab/design_embeddings_idetc_2016)
 doi: "10.1115/DETC2016-60112"
 category: paper
 published: true
