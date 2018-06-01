@@ -17,7 +17,7 @@ pdflink:
 github: "https://github.com/IDEALLab/hgan_idetc2018"
 doi:
 category: paper
-published: 
+published: true
 tags: [hgan]
 ---
 {% include JB/setup %}
