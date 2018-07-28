@@ -33,7 +33,7 @@ Real-world designs usually consist of parts with hierarchical dependencies, i.e.
 
 ```
 @inproceedings{chen2018hgan,
-    author={Chen, Wei, Ashwin Jeyaseelan, and Fuge, Mark},
+    author={Chen, Wei and Jeyaseelan, Ashwin and Fuge, Mark},
     title={Synthesizing Designs with Inter-part Dependencies Using Hierarchical Generative Adversarial Networks},
     booktitle={ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
     year={2018},
