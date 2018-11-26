@@ -2,7 +2,7 @@
 layout: paper
 title: "Interpreting Idea Maps: Pairwise comparisons reveal what makes ideas novel"
 year: "2018"
-shortref: ""
+shortref: "Ahmed et al. 2018 JMD"
 nickname: interpreting-ideamaps
 journal: "Journal of Mechanical Design"
 volume: ""
