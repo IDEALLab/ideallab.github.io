@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Wei Chen, Kevin Chiu, and Mark Fuge"
-image: /assets/images/papers/airfoil_opt.png
+image: /assets/images/papers/airfoil_opt.svg
 redirect_from: 
 fulltext: 
 pdf: /assets/pdfs/chen_airfoil_opt_scitech_2019.pdf
