@@ -5,8 +5,8 @@ year: "2018"
 shortref: "Ahmed et al. 2018 JMD"
 nickname: interpreting-ideamaps
 journal: "Journal of Mechanical Design"
-volume: ""
-issue: ""
+volume: "141"
+issue: "2"
 pages: 
 authors: "Faez Ahmed, Sharath Kumar Ramachandran, Mark Fuge, Sam Hunter, Scarlett Miller"
 image: /assets/images/papers/idea_map.png
@@ -30,14 +30,14 @@ Assessing similarity between design ideas is an inherent part of many design eva
 # BibTeX Citation
 
 ```
-@article{ahmed2018interpreting,
+@article{ahmed2019interpreting,
   title={Interpreting Idea Maps: Pairwise comparisons reveal what makes ideas novel},
-  author={Ahmed, Faez and Ramachandran, Sharath Kumar and Fuge, Mark and Hunter, Sam and Miller, Scarlett},
+  author={Ahmed, Faez and Ramachandran, Sharath Kumar and Fuge, Mark and Hunter, Samuel and Miller, Scarlett},
   journal={Journal of Mechanical Design},
-  volume={},
-  issue={},
-  pages={},
-  year={2018},
+  volume={141},
+  number={2},
+  pages={021102},
+  year={2019},
   publisher={American Society of Mechanical Engineers}
 }
 ```
