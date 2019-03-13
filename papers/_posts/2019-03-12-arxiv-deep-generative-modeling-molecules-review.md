@@ -13,7 +13,7 @@ image: /assets/images/papers/2019_GAN_for_molecules.png
 redirect_from:
 fulltext: "https://arxiv.org/abs/1903.04388"
 pdf:
-pdflink: "https://arxiv.org/pdf/1903.00415.pdf"
+pdflink: "https://arxiv.org/pdf/1903.04388.pdf"
 github:
 doi:
 category: paper
