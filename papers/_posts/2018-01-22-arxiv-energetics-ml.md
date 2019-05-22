@@ -6,8 +6,8 @@ shortref: "Elton et al. 2018"
 nickname: ml-for-energetics-arxiv
 journal: "Scientific Reports"
 volume: 8
-issue:
-pages:  
+issue: 1
+pages: 9059
 authors: "Dan Elton, Zois Boukouvalas, Mark Butrico, Mark Fuge, Peter Chung"
 image: /assets/images/papers/2018_elton_ml_for_energetics_arxiv.jpg
 redirect_from:
@@ -38,6 +38,7 @@ We present a proof of concept that machine learning techniques can be used to pr
   publisher = {Springer Nature},
   volume = {8},
   number = {1},
+  pages = {9059},
   author = {Daniel C. Elton and Zois Boukouvalas and Mark S. Butrico and Mark D. Fuge and Peter W. Chung},
   title = {Applying machine learning techniques to predict the properties of energetic materials},
   journal = {Scientific Reports}
