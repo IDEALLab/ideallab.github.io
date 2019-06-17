@@ -11,7 +11,7 @@ pages:
 authors: "Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung"
 image: /assets/images/papers/2019_GAN_for_molecules.png
 redirect_from:
-fulltext: "https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039"
+fulltext: "https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a"
 pdf: /assets/pdfs/2019_deep_learning_molecular_design_review_arxiv_5_2019.pdf
 pdflink:  
 github:
