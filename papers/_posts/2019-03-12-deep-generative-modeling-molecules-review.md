@@ -1,21 +1,21 @@
 ---
 layout: paper
-title: "Deep learning for molecular generation and optimization - a review of the state of the art"
+title: "Deep learning for molecular design - a review of the state of the art"
 year: "2019"
 shortref: "Elton et al. 2019"
 nickname: DL-molecules-review
-journal:
-volume:
+journal: Molecular Systems Design & Engineering
+volume: "4"
 issue:
 pages:  
 authors: "Daniel C. Elton, Zois Boukouvalas, Mark D. Fuge, Peter W. Chung"
 image: /assets/images/papers/2019_GAN_for_molecules.png
 redirect_from:
-fulltext: "https://arxiv.org/abs/1903.04388"
-pdf:
-pdflink: "https://arxiv.org/pdf/1903.04388.pdf"
+fulltext: "https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a"
+pdf: /assets/pdfs/2019_deep_learning_molecular_design_review_arxiv_5_2019.pdf
+pdflink:  
 github:
-doi:
+doi: "10.1039/C9ME00039A"
 category: paper
 published: true
 tags: [deep learning, machine learning, AI, molecules, materials]
@@ -31,12 +31,13 @@ In the space of only a few years, deep generative modeling has revolutionized ho
 ```
 @article{Elton2019Deep,
          author = {Elton, Daniel C. and  Boukouvalas, Zois and Fuge, Mark D. and Chung, Peter W.},  
-          title = "{Deep learning for molecular generation and optimization - a review of the state of the art}",
-          journal = {arXiv e-prints: 1903.04388},  
-           year = "2019",  
-          month = "Mar",  
-         eprint = {1903.00415},  
-   primaryClass = {cs.CL},  
-   keywords = {Computer Science - Machine Learning, Physics - Chemical Physics, Statistics - Machine Learning},
+         title = "{Deep learning for molecular design - a review of the state of the art}",
+         journal = {Molecular Systems Design \& Engineering},  
+         volume = "4",
+         issue = "",
+         pages = "",
+         year = "2019",  
+         month = "May",
+         doi = "10.1039/C9ME00039A",
 }
 ```
