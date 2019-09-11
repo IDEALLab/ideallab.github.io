@@ -51,13 +51,13 @@ capabilities for synthesizing plausible data.
 # BibTeX Citation
 
 ```
-@inproceedings{Boukouvalas2018Independent,
-   author = {Boukouvalas, Z. and Elton, D.~C. and Chung, P.~W. and Fuge, M.~D.},
-    title = "{Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning}",
-    booktitle={Machine Learning for Molecules and Materials NeurIPS 2018 Workshop},
-    year = 2018,
-    month = dec,
-    url = {http://www.quantum-machine.org/workshops/nips2018/}
-    publisher={},
-    address={Montreal, Canada}
+@inproceedings{Sexton2019Semantic,
+    author       =   {Sexton, Thurston and Fuge, Mark},
+    title        =   "{Using Semantic Fluency Models Improves Network Reconstruction Accuracy of Tacit Engineering Knowledge}",
+    booktitle    =   "{ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference}",
+    year         =   2019,
+    month        =   August,
+    url          =   {https://www.nist.gov/publications/using-semantic-fluency-models-improves-network-reconstruction-accuracy-tacit},
+    organization =   {American Society of Mechanical Engineers}
 }
+```
