@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Luoting Fu, Mark Fuge, and Levent Burak Kara"
-image: /assets/images/papers/
+image: /assets/themes/lab/images/logo/ideal_logo_dark.png
 redirect_from: 
 fulltext: 
 pdf: /assets/pdfs/fu_fuge_kara_VDEL_CHI_2010.pdf
