@@ -107,7 +107,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">		
-			{% for paper in site.categories.papers limit:5 %}
+			{% for paper in site.categories.papers limit:8 %}
 				<div class="note-title">
 					<i class="fa fa-file-text-o fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
@@ -135,7 +135,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:4 %}
+			{% for post in site.categories.blog limit:10 %}
 			
 				{% for member in site.categories.team %}
 					{% if member.handle == post.author_handle %}
