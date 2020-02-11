@@ -11,5 +11,5 @@ github: faezahmed
 scholar:
 image: /assets/images/team/ahmed_faez.jpg
 cv: 
-alum: false
+alum: true
 ---
