@@ -65,7 +65,12 @@ This is always a hard one since I probably personally know *famous person X* and
 * Living here is both awesome and cost-effective. You get access to big-city-level (Washington DC) amenities/attractions and nearby national parks (Shenandoah), but living in College Park is fairly inexpensive and safe. Our graduate student salaries are at the top range of what schools offer. You can have a good life here both inside and outside of school.
 * Unlike *famous person X*, who already has *A#* citations, *B#* awards, and *C#* graduated students, I am early enough in my career where you will make a serious impact on my own trajectory and success. So I have every possible reason to want to invest in you and your success! You are not just a bean to be counted but rather a valued partner who I must cultivate if I am to succeed myself. Your success **literally defines** my own success in ways that are simply not often the case for PIs who are already well entrenched in their careers.
 
+## What kind of advanced technological or computing equipment do you have available in your lab? How is its use allocated?
+We have a variety of desktop workstations equipped with high performance CPU and GPU hardware. We also have an NVIDIA DGX Station, which is a powerful GPU system capable of running medium-sized experiments. In addition to this, there is the campus High Performance Computing system to which we have access. Our campus HPC, like similar HPCs at other universities, is useful for highly parallelizable jobs that require high amounts of compute.
 
+On the advanced manufacturing side, the College of Engineering, within the past decade, has invested over $3M in advanced manufacturing equipment and related services. You can see the various equipment at the [TerrapinWorks](https://terrapinworks.umd.edu/) website, including some of the most advanced additive manufacturing equipment in the world. In addition, we are a member of the [Maryland Robotics Center](https://robotics.umd.edu/) which provides facilities such as the [Robotics Realization Lab](https://robotics.umd.edu/labs/robotics-realization-laboratory) for manufacturing and testing several robotics platforms.
+
+In terms of access to various equipment, this depends on the specific machine, but generally speaking there is some kind of access and job management infrastructure to ensure that folks have access to the needed compute or manufacturing needed for their projects. If needed, I also have the ability to purchase needed cloud computing from various providers if the needs of the research warrant such expenses. 
 
 
 # About Myself, as an advisor
@@ -89,6 +94,18 @@ However, in the case that funding for a specific project does end, the departmen
 ## Will I be expected to teach?
 Not unless you want to or we mutually agree it is in your interest or if funding necessitates so. Unlike some other departments, UMD does not have any required teaching assignments for students. For example, some schools require their students to TA for 1-2 semesters as part of the program; our department does not do that. If you would like to TA because you get personal satisfaction from it, just want the experience to see if you enjoy teaching, or you want to bolster your record for faculty application purposes then that is a different story and I can help you achieve that if you want to.
 
+## Outside of ME, are there specific departments you collaborate with more often than others?
+I collaborate with a wide number of departments both within and outside of the university. This is often determined via a student's needs and interests, or whether we have a grant with another department. In order of frequency, my most frequent collaborators come from:
+
+* Computer Science
+* Other Engineering Departments
+* Mathematics, Applied Math, or Statistics
+* The Information School (ISchool)
+* Psychology
+* Physics
+* Education
+
+
 
 # About The Department and Coursework
 
@@ -97,6 +114,21 @@ Not unless you want to or we mutually agree it is in your interest or if funding
 As Mechanical Engineering departments go, UMD is (thankfully) fairly flexible in the specific courses you need to take (see the enme.umd.edu website for the specifics). In practice, my students have had no trouble satisfying any formal coursework requirements. In terms of specific courses, my students typically take courses in the MechE, Computer Science, Applied Mathematics, Statistics, or Mathematics departments, since those courses tend to be the most closely related to the skills we specialize in (usually Machine Learning or similar advanced mathematics/computation). These courses will typically equip you with skills in optimization, advanced computation/programming, statistical learning, among other related areas. Generally speaking, every semester we will discuss what courses will best support your research interests and goals, and select courses based on that.
 
 In addition to formal coursework learning, you will pick up technical skills in things like software version control, advanced computing hardware (such as using GPUs like our NVIDIA DGX or the HPC center) or advanced additive manufacturing equipment if the project requires it (*e.g.*, some of the equipment in the Maryland Robotics Center's *Robotics Realization Lab*). My students also end up getting fairly good exposure and practice with technical or academic writing (see, for example, [my scientific writing guide](/blog/writing-guide)) as well as presentation skills. This is in part due to my own focus and extra advising on how to write and present well, which I have found to be key to academic success. In addition to this, my students tend to gain mentorship skills via the UMD undergraduate research program where we can pitch projects and recruit undergrads to work with them. This helps you develop your skills at mentoring and leading others.
+
+## What possibilities are there for co-advising, for example, if I want to collaborate with other professors or researchers while at UMD?
+There are many possibilities to work with multiple professors while here, and I encourage my students to learn as much as they can from the other excellent and talented faculty who are here. Part of our ongoing discussions around your Professional Development Plan while a student here will include making sure you are assembling the kind of mentorship network you need to succeed in the future. Possible co-advising or co-mentorship setups fall under the following broad types:
+
+* **Informal mentorship**: Perhaps you take a course with a professor or meet him or her through some other capacity. If you think his or her work is relevant to your interests, I have no problem with you trying out some seedling ideas for their course project or arranging a time to chat with them separately. Some of my favorite papers have come from chance interactions that students have initiated with other faculty, and they often lead to new grant proposals for me and that other faculty member. This kind of collaboration is organic and informal, but has a range of other benefits.
+* **Dissertation Committee Members**: Part of a Dissertation or Thesis Committee's role is to help guide or advise on a students research. So, it is quite common for students to initiate new discussions and collaborations with other faculty and for those faculty members to be natural choices for members of your committee. This can include even co-authoring publications with your committee members.
+* **Formal Co-Advising**: If your research interests span multiple professors and you wish to officially have "two advisors" then we can also do an official "Co-Advising" setup wherein one professor would be the "Chair" of your dissertation, and then other the "Co-Chair" and you would officially have two advisors with respect to the university system. I have done this multiple times before and, while not common, it is a good option if you truly believe that having multiple official advisors would benefit your research in ways that more informal advising might not.
+
+
+## If I am coming in with a B.S. versus an M.S., does that make a difference? Can students who come from B.S. straight to Ph.D. do well?
+Those entering with an M.S. require fewer formal courses than those entering with a B.S., since some of your Master's credits may transfer over to UMD (depending on the specific courses). In such cases, the time to degree may be shorter, though a lot depends on the specific student's motivation and research performance. However, in general, students entering with a B.S. or an M.S. (or M.Tech or M.Eng) can all do equally well here. If your end goal is a Ph.D., I would not be particularly concerned regarding whether or not you had a Master's degree or not when applying here.
+
+
+## Are there courses to take on things like technical writing or other professional development?
+We do not require graduate students to take any specific courses in things like technical writing. That said, there are a variety of centers on campus that can help students develop these skills, such as the Teaching and Learning Transformation Center (TLTC) or various writing groups and retreats offered through the Graduate School. In addition, there are various workshops that take place throughout the year on techniques like science communication and other skills that you can sign up for. I am happy to support those kinds of activities for you if you would benefit from them.
 
 
 
@@ -117,6 +149,8 @@ Being a major cultural center, Washington DC has everything you would expect fro
 
 Lastly, though importantly for certain students, we are a short drive from three international airports (BWI, DCA, and IAD). Because we live near the capital, you can generally find non-stop flights to almost anywhere on Earth. This can matter a lot for certain international students who want to visit their families because what might be a 1-flight trip from UMD could easily be a 3- or 4-flight trip at other, more remote or isolated universities. It is also easier and cheaper for us to go to academic conferences for this reason.
 
+## Is it safe to live in the area?
+I personally live in College Park, walk regularly to campus, and am raising my two small children in the area. I have never personally been concerned for my safety, nor have my students ever voiced such concerns to me. Every city will have some degree of incidents, but I find that the overwhelming majority of such notices, when I hear about them, come from nearby the area around Faternity houses where undergrads tend to live, and not where graduate students, faculty, or researchers live.
 
 ## Are there any specific things I should know about UMD's location or living the that I haven't asked already?
 * In general, I think when people first hear of College Park, they don't realize how accessible it is to DC and major attractions in the area. Put it into Google Maps, and I think you will be pleasantly surprised, especially compared to some other schools you may be considering. There is a lot going on near and around here, while not being all that expensive!
