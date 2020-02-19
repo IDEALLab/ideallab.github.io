@@ -72,6 +72,46 @@ On the advanced manufacturing side, the College of Engineering, within the past 
 
 In terms of access to various equipment, this depends on the specific machine, but generally speaking there is some kind of access and job management infrastructure to ensure that folks have access to the needed compute or manufacturing needed for their projects. If needed, I also have the ability to purchase needed cloud computing from various providers if the needs of the research warrant such expenses. 
 
+## Would you say a student needs experience in your type of work before starting there, or can it be picked up? For example, do I need to know things like Machine Learning before starting in your lab?
+
+In general, it is my belief that most advanced technical skills can be taught assuming that a student wants to learn them. This means I don't require a certain set of pre-defined courses before folks start working in my lab; I have seen too many examples of exceptional and motivated students picking up new and different things to believe that anyone's path is pre-written by their past.
+
+This said, there are certain skills coming out of an undergraduate program that make it easier for students to quickly get up to speed on my research. These are not required by any means (see above), but students who have the below skills make the transition easier than others. I should also say that it depends heavily on the specifics of the project. For example, a robotics project may require different skills than an optimization project, etc.
+
+* Some exposure to modern programming languages or an interest in learning them. For example, many ME students are familiar with MATLAB. In addition to this, familiarity with languages like Python, Julia, C++, Java, or other programming languages is a plus. Once you have learned more than one programming language, I believe it is fairly easy to pick up others that you might need.
+* Undergraduate courses in topics like Statistics or Linear Algebra give folks the fundamentals. If students have taken courses in Optimization that is also useful background. Often at the undergraduate level in Mechanical Engineering, many students will not have taken a formal course in Machine Learning, and I don't expect folks to have that background coming in (though certainly if you do have that background or coursework that is a plus)
+* A general scientific interest at the intersection of Mathematics, Computer Science, Optimization, or Machine Learning as it applies to Mechanical Engineering, with a desire to learn how to run computational experiments.
+
+As you can see, I don't expect folks to be experts in ML or other graduate level mathematics coming into the PhD program (that is what you would come here to learn, after all), but rather that you are open to learning those new areas and have some mathematical or computational background that would give you the right foundation to take graduate level courses in those areas.
+
+
+## What is the overall lab culture? What are hourly expectations for students to be in the lab or working, if any? 
+This is a difficult question to answer given the "culture" is a broad category. We can attempt to break this down into sub-pieces that might contribute to a definition of culture (certainly let me know if I missed any important pieces).
+
+* Hours: I do not have specific "lab hours" where I require people to be there. Like in the "real world" we would set expectations for things like when/how many papers you want to submit and then work towards that. I do encourage people to set up a schedule for themselves to practice key time management skills like time-blocking and deep work, etc. If that happens to be typical work week hours I have no problem with that. But it does not personally matter to me when those are for you, since different people have different optimal hours for themselves, so long as our work gets done.
+* Collaborations: See my answers to "Will I work alone on my project or as part of a team?" and "What possibilities are there for co-advising" elsewhere in this document.
+* Lab Activities: Occasionally we will do various lab-wide activities. These can range from short one-hour "Tea Talks" by lab members on relevant topics with tea and cookies, all the way to full-day lab retreats where we might go kayaking or hiking or some other activities with our families. I expect everyone in the lab to attend these to help you connect with your colleagues and partake in important conversations we need to have as a lab in general.
+* Work-Life Balance: In general, I expect people to try their best to balance their research and personal lives. There is a (I think misplaced) mythos about PhD life (and academic research more generally) that we work all of the time. This is a dangerous misconception that, I believe, detracts from your productivity more than one gains. We need to stop perpetuating that falsehood. While certainly I do know people who have pushed themselves for certain stretches before a deadline (and I was guilty of this myself as a graduate student), I neither expect nor encourage such behavior. Rather, I encourage (and guide you on how to achieve) a disciplined and aggressive approach to your time management that will make sure you can be as successful or more so than your colleagues within a reasonable number of work hours per week. This will permit you the needed space to enjoy other aspects of your life and recharge as needed for our demanding line of work.
+
+## What is the basic timeline for new students, in terms of what they need to do in the first month, semester, year, etc.?
+This depends a lot of the specific project as well as whether or not a student comes in with an M.S. or just a B.S. In general, the first year or so will be focused on taking foundational coursework, while also getting you started on a paper (e.g., perhaps a conference paper at first) so that you can get a sense for the research and build up key skills. Working on a research paper during the first year also helps prep you for the qualifying exam which typically occurs at the end of your firsts year. The next year or so will be taking more advanced courses as well as setting up collaborations with other professors or industry partners that can help inform you thesis directions. By around your third year, you should be finishing up coursework and working on a handful of papers that can contribute to your thesis. Once courses are done, the focus will be almost entirely on research and paper output.
+
+In general, I encourage students to use their first few years to try out some experimental ideas/direction (what I call Tier 1 projects) as well as building on more mature ideas that contribute directly to grant deliverables funding your time (I call these Tier 2 projects). By the third year, you might also spend some of your time working on concrete applied projects that can transition your earlier work into impact with industry or clinical collaborators (I call these Tier 3 projects), while still maintaining a sustainable pipeline of new or maturing projects that can lead to a stready stream of publications for you.
+
+
+## How many of your students pass things like the Department Qualifying Exam, Dissertation Proposal, Dissertation Defence, etc.?
+
+All of my students have passed the Qualifying Exam, Proposal, and Defense with no issues. Generally, the students I bring onboard, for the type of research that we do, have never encountered difficulties here.
+
+## What is the physical lab space like?
+We have space for around 10-12 full time employees, split across three interconnected rooms. There is lots of natural sunlight owing to one entire wall of windows. It's agreat space! Graduate students have their own desks, plus there is a group table with expandable chairs and a door that closes in case you need to hold a meeting or teleconference. There is also a couch and small reading library. It's a beautiful space!
+
+## What kind of things do your students (or the lab in general) do for fun?
+All sorts of things! You can ask the students if you would like. I have heard of things ranging from board game nights to ski trips to road trips to breaks in Key West, among others. There is also a Graduate Student Association at UMD that arranges trips for graduate students to places like ski resorts or New York City or many other places.
+
+For our lab retreats, we have previous held board game nights, cookouts, and kayaking trips, and I plan for similar types of events in the future.
+
+
 
 # About Myself, as an advisor
 
@@ -104,6 +144,19 @@ I collaborate with a wide number of departments both within and outside of the u
 * Psychology
 * Physics
 * Education
+
+
+## How did you get into this type of research? Have your research interests shifted during your career? How so?
+
+In high school, I wanted to design airplanes. Then I got to college, took my first fluid mechanics class, had an absolutely terrible instructor for that class. I noted that he was the same person who would teach aerodynamics. Dreams dashed! Or so I thought. I then talked with the wonderfully talented Dr. Susan Finger who introduced me to advanced Computer-Aided Design tools like Topology Optimization. It was the first time I had seen a computer do something that I, as an engineer, would have considered "creative" beyond just mere rote calculation. This got me interested in studying how humans and computers could work together as a team to be greater than the sum of their parts. I then had the pleasure of working with Dr. Burak Kara who introduced me to Machine Learning and showed me how those (understudied) approaches could transform engineering. I was hooked from that point forward.
+
+I pursued my PhD in MechE, but took almost exclusively CS and Statistics classes that allowed me to get up to speed on ML as an area. I knew little about ML going in, but after many difficult classes, countless hours of hard work, and applying those tools to real world engineering problems, I found a niche for myself where I could do the kind of research that I had wanted to do ever since Susan showed me my first optimization routine. This did not come without struggles or disappointments, which often left me feeling like an outsider. In classes, I was often asked by CS students "Why are you here taking this class?" In department committees, I was often asked "Why is this Mechanical Engineering? Why aren't you just building a robot?" In faculty search committees, I was often told "No one will fund this kind of work. Do you really think you belong in this department?" Fast forward to today, however, and every MechE department in the country recognizes the future role that ML and AI will play in engineered systems. Funding agencies are regularly initiating new programs at the intersection of ML and Engineering (just our lab at UMD has secured over $10M in grants to cover such research). Companies large and small, including the world's largest energy systems manufacturers and defense contractors regularly try to hire our students to keep at the cutting edge of those techniques.
+
+At the time that I finished my PhD, my research focus was fairly narrow (various ML algorithms for assisting in crowd-sourced design tasks), but since arriving at UMD I have broadened my purvue of problems significantly. We have projects ranging from jet turbine design, helicopter transmissions, heart grafts for newborn children with congential heart disease, ships, team-based creativity, optimization theory, and, yes, even airplane design (it came full circle). While the various societal problems we work on are broad, they all leverage a common set of mathematical and computational tools at the intersection of Machine Learning and Engineering Design. I have broadened this toolset from traditional ML to include complementary areas of mathematics and computer science, in part just because I like learning new things and I find those tools relevant. This ability to learn and change throughout one's career is part of the fun of the job, in my opinion!
+
+## Would you say your work more theoretical or more applied?
+
+This depends heavily on the specific student's interests as well as the nature of the grant funding your time. I try to keep a balance of around 50/50 between theoretical and applied work. I find that the distinction is often not black and white: applications can drive or illuminate new theoretical results, and new theory can lead to applications we hadn't seen before. I will work with you during your time here to find the right mix for you. If you don't express a preference, I will generally try to expose you to both throughout your PhD.
 
 
 
