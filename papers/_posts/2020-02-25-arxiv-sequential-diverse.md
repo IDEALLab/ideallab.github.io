@@ -30,7 +30,7 @@ Collaborative work often benefits from having teams or organizations with hetero
 # BibTeX Citation
 
 ```
-@article{ahmadi2019algorithms,
+@article{ahmed2020sequential,
   title={Forming Diverse Teams from Sequentially Arriving People},
   author={Ahmed, Faez and Dickerson, John P and Fuge, Mark},
   journal={arXiv preprint arXiv:2002.10697},
