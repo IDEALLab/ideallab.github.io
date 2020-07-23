@@ -1,11 +1,11 @@
 ---
 layout: news
 title: "Video Presentation on Design Manifolds now available on YouTube"
-author: "Mark Fuge""
+author: "Mark Fuge"
 author_handle: "fuge"
 image: /assets/images/news/Fuge_Lost_in_Space_BGAN.jpg
 category: news
-tags: [presentation,AIAA Journal]
+tags: [presentation,manifolds]
 ---
 
 Mark recently had to give a pre-recorded invited talk as part of a conference. We uploaded the video to [YouTube](https://youtu.be/g4JGVHnM-kw) in case others wanted to watch as well. Video is 18 minutes long and covers much of the work covered in [Wei Chen's dissertation](http://ideal.umd.edu/papers/phdthesis/chen-dissertation), including the following papers:
