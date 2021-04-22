@@ -14,7 +14,7 @@ redirect_from:
 fulltext: 
 pdf: /assets/pdfs/2020_jun_Learn_to_compose_IDETC.pdf
 pdflink: 
-github: https://github.com/IDEALLab/DeepCFD
+github: "https://github.com/IDEALLab/DeepCFD"
 doi: 
 category: paper
 published: true
