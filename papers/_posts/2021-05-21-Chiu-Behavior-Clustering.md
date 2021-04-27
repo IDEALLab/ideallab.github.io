@@ -17,7 +17,7 @@ pdflink:
 github: 
 doi: 
 category: paper
-published: false
+published: true
 tags: [curve]
 ---
 {% include JB/setup %}
