@@ -12,7 +12,7 @@ authors: "Kevin Chiu, David Anderson, and Mark Fuge"
 image: /assets/images/papers/2021-chiu-behavior-clustering.png
 redirect_from: 
 fulltext:
-pdf: 
+pdf: /assets/pdfs/2021_Chiu_Anderson_Behavior_Clustering.pdf
 pdflink: 
 github: 
 doi: 
