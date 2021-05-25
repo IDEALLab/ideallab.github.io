@@ -11,11 +11,11 @@ pages:
 authors: "Wei Chen, Kevin Chiu, and Mark Fuge"
 image: /assets/images/papers/chen_beziergan_aiaaj_2020.png
 redirect_from: 
-fulltext: 
+fulltext: https://arc.aiaa.org/doi/abs/10.2514/1.J059317
 pdf: /assets/pdfs/2020_chen_beziergan_aiaaj.pdf
 pdflink: 
 github: "https://github.com/IDEALLab/bezier-gan"
-doi: 
+doi: https://doi.org/10.2514/1.J059317
 category: paper
 published: true
 tags: [beziergan_aiaaj]
