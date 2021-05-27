@@ -2,13 +2,13 @@
 layout: paper
 title: "Potential Energy Surfaces for Analysis and Conceptual Design and Analysis of Mechanical Systems"
 year: "2021"
-shortref: "Manion and Fuge 2021"
+shortref: "Manion and Fuge <i>IDETC</i> 2021"
 nickname: potential-energy-surf
 journal: "Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2021)"
 volume:
 issue:
 pages:
-authors:"Charles A. Manion, Mark Fuge"
+authors: "Charles A. Manion, Mark Fuge"
 image: /assets/images/papers/2021_manion_potential_surf.png
 redirect_from:
 fulltext:
