@@ -29,15 +29,19 @@ This is largely driven by the interests of the students, since some students are
 
 * Dr. Faez Ahmed (PhD '19) - Asst. Professor, Mechanical Engineering, Massachusetts Institute of Technology
 * Dr. Zois Boukouvalas (Post-Doc, '19) - Asst. Professor, Mathematics and Statistics, American University
+* Dr. Xiaolong Liu (Post-Doc, '20) - Research Scientist, Johns Hopkins University
+* Dr. Fatemeh Ghoreishi (Post-Doc, '21) - Asst. Professor, Civil and Environmental Engineering, Northeastern University
 
 ### Student/Post-Doc wanted Industrial Position
 
 * Dr. Wei Chen (PhD '19) - Research Scientist, Generative Design Group, Seimens Corporate Technology
 * Dr. Kailyn Cage (PhD '18) - Technical Program Manager, Amazon Lab126
 * Mr. Ceena Modarres (MS '16) - Data Scientist, Capital One Financial Corporation
+* Dr. David Anderson (Post-Doc, '20) - CEO and Founder, Engora Inc.
 
 ### Student/Post-Doc wanted Government Position
-* Dr. Dan Elton (Post-Doc, '18) - Staff Scientist, National Institutes of Health
+* Dr. Dan Elton (Post-Doc, '18) - Staff Scientist, National Institutes of Health (NIH)
+* Dr. Charlie Manion (Post-Doc, '20) - Mechanical Engineer, National Institute of Standards and Technology (NIST)
 
 
 ## How many students do you have? What kind of backgrounds do they have?
@@ -116,7 +120,7 @@ For our lab retreats, we have previous held board game nights, cookouts, and kay
 # About Myself, as an advisor
 
 ## How often do you meet with your students?
-I have different kinds of meeting, depending on the purpose, as I describe below. In general, for graduate students, typically once a week for between 30-60 minutes, depending on the student career stage and how much we have to cover. If there is a particularly gnarly technical concept or paper we need to discuss, it would not be unusual for us to schedule a separate 2-3 hour discussion at a local coffee shop where we dig into the details of some specific paper or derivation. There is no technical problem that cannot be solved with sufficient amounts of Pour-Over coffee mixed with brain power. Overall, I conduct the following types of meetings with students:
+I have different kinds of meetings, depending on the purpose, as I describe below. In general, for graduate students, typically once a week for between 30-60 minutes, depending on the student career stage and how much we have to cover. If there is a particularly gnarly technical concept or paper we need to discuss, it would not be unusual for us to schedule a separate 2-3 hour discussion at a local coffee shop where we dig into the details of some specific paper or derivation. There is no technical problem that cannot be solved with sufficient amounts of Pour-Over coffee mixed with brain power. Overall, I conduct the following types of meetings with students:
 
 * One-on-One Meetings: These may be regular or irregular depending on the needs and preferences of the student. Often these will discuss specific technical issues or plans for the upcoming weeks. We may schedule these as-you-need or we might set them up regularly recurring. I want to support the way you work best.
 * Weekly Research Office Hours: This is a drop-in (no appointment needed) time where I make myself available to any student who comes by. Sometimes you just have a quick question and stopping by OH is the right pace for that.
