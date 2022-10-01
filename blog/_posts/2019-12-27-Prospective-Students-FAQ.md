@@ -31,6 +31,7 @@ This is largely driven by the interests of the students, since some students are
 * Dr. Zois Boukouvalas (Post-Doc, '19) - Asst. Professor, Mathematics and Statistics, American University
 * Dr. Xiaolong Liu (Post-Doc, '20) - Research Scientist, Johns Hopkins University
 * Dr. Fatemeh Ghoreishi (Post-Doc, '21) - Asst. Professor, Civil and Environmental Engineering, Northeastern University
+* Dr. Jun Wang (Post-Doc, '22) - Asst. Professor, Mechanical Engineering, Santa Clara University
 
 ### Student/Post-Doc wanted Industrial Position
 
@@ -38,6 +39,7 @@ This is largely driven by the interests of the students, since some students are
 * Dr. Kailyn Cage (PhD '18) - Technical Program Manager, Amazon Lab126
 * Mr. Ceena Modarres (MS '16) - Data Scientist, Capital One Financial Corporation
 * Dr. David Anderson (Post-Doc, '20) - CEO and Founder, Engora Inc.
+* Ms. Rachel Hess (MS '20) - Mechanical Engineer, Federal Aviation Administration
 
 ### Student/Post-Doc wanted Government Position
 * Dr. Dan Elton (Post-Doc, '18) - Staff Scientist, National Institutes of Health (NIH)
@@ -103,12 +105,8 @@ This depends a lot of the specific project as well as whether or not a student c
 In general, I encourage students to use their first few years to try out some experimental ideas/direction (what I call Tier 1 projects) as well as building on more mature ideas that contribute directly to grant deliverables funding your time (I call these Tier 2 projects). By the third year, you might also spend some of your time working on concrete applied projects that can transition your earlier work into impact with industry or clinical collaborators (I call these Tier 3 projects), while still maintaining a sustainable pipeline of new or maturing projects that can lead to a stready stream of publications for you.
 
 
-## How many of your students pass things like the Department Qualifying Exam, Dissertation Proposal, Dissertation Defence, etc.?
-
-All of my students have passed the Qualifying Exam, Proposal, and Defense with no issues. Generally, the students I bring onboard, for the type of research that we do, have never encountered difficulties here.
-
 ## What is the physical lab space like?
-We have space for around 10-12 full time employees, split across three interconnected rooms. There is lots of natural sunlight owing to one entire wall of windows. Graduate students have their own desks, plus there is a group table with expandable chairs and a door that closes in case you need to hold a meeting or teleconference. There is also a couch and small reading library. It's a beautiful space!
+We have space for around 10-12 full time employees, split across three interconnected rooms. There is lots of natural sunlight owing to one entire wall of windows. Graduate students have their own desks, plus there is a group table with expandable chairs and a door that closes in case you need to hold a meeting or teleconference, which we have set up with soundproofing and high quality video conferencing equipment for that purpose. There is also a couch, a small reading library, a fridge, and a microwave. It's a beautiful space!
 
 ## What kind of things do your students (or the lab in general) do for fun?
 All sorts of things! You can ask the students if you would like. I have heard of things ranging from board game nights to ski trips to road trips to breaks in Key West, among others. There is also a Graduate Student Association at UMD that arranges trips for graduate students to places like ski resorts or New York City or many other places.
@@ -124,7 +122,7 @@ I have different kinds of meetings, depending on the purpose, as I describe belo
 
 * One-on-One Meetings: These may be regular or irregular depending on the needs and preferences of the student. Often these will discuss specific technical issues or plans for the upcoming weeks. We may schedule these as-you-need or we might set them up regularly recurring. I want to support the way you work best.
 * Weekly Research Office Hours: This is a drop-in (no appointment needed) time where I make myself available to any student who comes by. Sometimes you just have a quick question and stopping by OH is the right pace for that.
-* Quarterly Individual Development Plan (IDP) Meetings: Every three months I will sit down with you, one-on-one, to discuss your broader professional development and ways in which I can help you grow. These are forward looking and help me guide you as a mentor. They also carve out specific times in the year to support your growth holistically, and not just around individual research results or meetings.
+* Quarterly Individual Development Plan (IDP) Meetings: Every three months I will sit down with you, one-on-one, to discuss your broader professional development and ways in which I can help you grow. These are forward looking and help me guide you as a mentor. They also carve out specific times in the year to support your growth holistically, and not just around individual research results or meetings. As part of these meetings, we also construct and update a career plan for you throughout your program so that we can proactively equip you with the skills you need by graduation to secure top positions in whatever career track you would like.
 * Project Meetings: If we have a larger collaborative project with multiple groups, we will typically meet regularly for those as well, to sync up with collaborators.
 * Lab Events: These are typically whole-lab events like retreats or social activities, but can also be things like invited talks or other research things of interest to the lab more broadly.
 
@@ -164,10 +162,13 @@ I pursued my PhD in MechE, but took almost exclusively CS and Statistics classes
 
 At the time that I finished my PhD, my research focus was fairly narrow (various ML algorithms for assisting in crowd-sourced design tasks), but since arriving at UMD I have broadened my purview of problems significantly. We have projects ranging from jet turbine design to helicopter transmissions to heart grafts for newborn children with congential heart disease to ship design to team-based creativity to optimization theory, and, yes, even to airplane design. (It came full circle!) While the various societal problems we work on are broad, they all leverage a common set of mathematical and computational tools at the intersection of Machine Learning and Engineering Design. I have broadened this toolset from traditional ML to include complementary areas of mathematics and computer science, in part just because I like learning new things and I find those tools relevant. This ability to learn and change throughout one's career is part of the fun of the job, in my opinion!
 
-## Would you say your work more theoretical or more applied?
+## Would you say your work is more theoretical or more applied?
 
 This depends heavily on the specific student's interests as well as the nature of the grant funding your time. I try to keep a balance of around 50/50 between theoretical and applied work. I find that the distinction is often not black and white: applications can drive or illuminate new theoretical results, and new theory can lead to applications we hadn't seen before. I will work with you during your time here to find the right mix for you. If you don't express a preference, I will generally try to expose you to both throughout your PhD.
 
+## Do your students do internships during their program? If so, how does that work? How do I find them, or to what extent do your connections help?
+
+I am supportive of my students doing internships (whether for an industrial research center, national lab, or startup), though I leave this up to the student's interest. I have had students who have not wanted internships, and so we just funded them off UMD research projects in the summer. In other cases, students might want to try out an industrial research type job, and this is totally fine with me too. Generally, we would discuss this in our one-on-one quarterly Individual Development Plan meeting where we discuss your career plans and I try to connect you with companies in the areas that you are interested in (if you wish). In general, we have existing relationships with many companies and research centers with whom I can connect interested students.
 
 
 # About The Department and Coursework
@@ -185,6 +186,8 @@ There are many possibilities to work with multiple professors while here, and I 
 * **Dissertation Committee Members**: Part of a Dissertation or Thesis Committee's role is to help guide or advise on a students research. So, it is quite common for students to initiate new discussions and collaborations with other faculty and for those faculty members to be natural choices for members of your committee. This can include even co-authoring publications with your committee members.
 * **Formal Co-Advising**: If your research interests span multiple professors and you wish to officially have "two advisors" then we can also do an official "Co-Advising" setup wherein one professor would be the "Chair" of your dissertation, and then other the "Co-Chair" and you would officially have two advisors with respect to the university system. I have done this multiple times before and, while not common, it is a good option if you truly believe that having multiple official advisors would benefit your research in ways that more informal advising might not.
 
+## How does it work if I get multiple offers from different professors within the UMD MechE department?
+This can and has happened from time to time, and typically they will amend/reissue your original offer letter stating your new (multiple) choices of advisor. In many cases, as mentioned above, you could be co-advised as mentioned above if the project is similar or on a co-funded grant between the PIs. Otherwise you will have the choice to choose who to work with. In practice, everyone in the department is quite friendly, and understands that good students have lots of options, so in practice I have never seen this situation present any serious problems for students. We generally just want you to be happy and find the best fit for you.
 
 ## If I am coming in with a B.S. versus an M.S., does that make a difference? Can students who come from B.S. straight to Ph.D. do well?
 Those entering with an M.S. require fewer formal courses than those entering with a B.S., since some of your Master's credits may transfer over to UMD (depending on the specific courses). In such cases, the time to degree may be shorter, though a lot depends on the specific student's motivation and research performance. However, in general, students entering with a B.S. or an M.S. (or M.Tech or M.Eng) can all do equally well here. If your end goal is a Ph.D., I would not be particularly concerned regarding whether or not you had a Master's degree or not when applying here.
@@ -214,6 +217,9 @@ Lastly, though importantly for certain students, we are a short drive from three
 
 ## Is it safe to live in the area?
 I personally live in College Park, walk regularly to campus, and am raising my two small children in the area. I have never personally been concerned for my safety, nor have my students ever voiced such concerns to me. Every city will have some degree of incidents, but I find that the overwhelming majority of such notices, when I hear about them, come from nearby the area around Faternity houses where undergrads tend to live, and not where graduate students, faculty, or researchers live.
+
+## How is the air quality in the area?
+I have been asked this by students who come from big cities in other countries that do not have strong air quality laws. In the USA generally, the air quality is good. In College Park it is excellent, and I love going for walks outside and enjoying the nearby nature next to campus. 
 
 ## Are there any specific things I should know about UMD's location or living the that I haven't asked already?
 * In general, I think when people first hear of College Park, they don't realize how accessible it is to DC and major attractions in the area. Put it into Google Maps, and I think you will be pleasantly surprised, especially compared to some other schools you may be considering. There is a lot going on near and around here, while not being all that expensive!
