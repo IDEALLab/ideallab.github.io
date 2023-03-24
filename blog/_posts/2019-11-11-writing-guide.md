@@ -80,7 +80,7 @@ Creating high-impact research requires effective writing. Most researchers, howe
   * Style: Toward Clarity and Grace: Lesson 5: Cohesion and Coherence
 
 # Part 3: Understanding Style
-## Week 11: Revising for Clarity and Straighforwardness
+## Week 11: Revising for Clarity and Straightforwardness
   * **Style: Toward Clarity and Grace: Ch. 3: Actions**
   * **Style: Toward Clarity and Grace: Ch. 4: Characters**
   * **The Craft of Scientific Writing: Ch. 5: Being Clear**
