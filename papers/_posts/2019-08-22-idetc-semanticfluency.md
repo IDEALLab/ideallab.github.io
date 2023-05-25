@@ -8,7 +8,7 @@ journal: "Proceedings of the ASME 2019 International Design Engineering Technica
 volume:
 issue:
 pages:  
-authors: "Thurston Sexton, Mark D. Fuge"
+authors: "Rachael Sexton, Mark D. Fuge"
 image: /assets/images/papers/2019_sexton_semanticfluency.png
 redirect_from:
 fulltext: "https://www.nist.gov/publications/using-semantic-fluency-models-improves-network-reconstruction-accuracy-tacit"
@@ -52,7 +52,7 @@ capabilities for synthesizing plausible data.
 
 ```
 @inproceedings{Sexton2019Semantic,
-    author       =   {Sexton, Thurston and Fuge, Mark},
+    author       =   {Sexton, Rachael and Fuge, Mark},
     title        =   "{Using Semantic Fluency Models Improves Network Reconstruction Accuracy of Tacit Engineering Knowledge}",
     booktitle    =   "{ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference}",
     year         =   2019,
