@@ -16,7 +16,7 @@ scholar: jh_1DyAAAAAJ
 
 image: /assets/images/team/xiaolong_liu.jpg
 
-alum: True
+alum: true
 
 ---
 
